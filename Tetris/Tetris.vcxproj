@@ -90,6 +90,7 @@
     <ClInclude Include="PantallaDeJuego.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Transformaciones2D.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="PantallaDeJuego.resx">
